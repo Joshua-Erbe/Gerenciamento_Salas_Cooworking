@@ -1,6 +1,6 @@
 # Sistema de Agendamento de Salas - Coworking
 
-Solução para o Teste de Desenvolvimento 1 da Cervantes Tecnologia. O sistema permite gerenciar salas de coworking e seus agendamentos através de uma aplicação desktop desenvolvida em C# com Windows Forms e PostgreSQL.
+Sistema de Agendamentos desenvolvido para gerenciar salas e seus agendamentos através de uma aplicação desktop desenvolvida em C# com Windows Forms e PostgreSQL.
 
 ## O que o sistema faz
 
